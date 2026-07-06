@@ -12,7 +12,7 @@ The objective of this project is to analyze the FIFA 20 Career Mode dataset to u
 
 ## 📂 Dataset
 - **Dataset:** FIFA 20 Career Mode Player Dataset
-- **File:** [players_20.csv](data/players_20.csv)
+- **File:** [players_20.csv](Data/players_20.csv)
 
 ## 🛠 Technologies Used
 - Python
